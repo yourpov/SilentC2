@@ -2,7 +2,18 @@
 ##
 Silent C2 is a simple, lightweight command-and-control (C2) server designed for use in small-scale projects or as a starting point for larger C2 projects.  It's written in Golang &amp; MySQL for its database. Silent C2 is designed to be easy to set up and use, while providing a good foundation for more complex C2 systems.
 ##
-(this is not finished)
+**Project**: Silent C2.
+**Developer**: Ecstasy. x Nix.  
+**Public Distribution**: False  
+**GNU/GPL**: V3 (June 29, 2007) 
+**Generation**: 1               
+**Last Modified**: 2/19/23      
+**Release Version**: I                  
+  
+##
+
+##### (this is not finished)
+
 ## Silent C2 currently supports:
 
 - Command execution
