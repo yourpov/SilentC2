@@ -23,9 +23,54 @@ Silent C2 is a simple, lightweight command-and-control (C2) server designed for 
 ##
 
 # Features
-- 
-- 
-- 
+    Bot:
+    - Anti-Crash
+    - Patched Buffer Overflow & input Buffer limit
+    - User Sessions (ID, Client, Conn)
+    - Message Of The Day (Live updated)
+    - Captcha (Prevent Snooping Bruters)
+    - Central IP Log (By User - For Storing Addresses & Tags)
+    - API Compatibility (Send API Floods Via Command and Control)
+    - Modify Accounts From CNC (Account Creation, Account Deletion)
+
+    Statistics:
+    - Total Users
+    - Last Attacker ID
+    - Total CNC Attacks
+    - Server/Sharing Logs
+    - Remove Client Account
+    - Attack Durration Limit
+    - Total Running CNC Attacks
+    - Past Attack Log (By User)
+    - Show Recent Client Account
+    - Create Basic Client Accounts
+    - Create Admin Client Accounts
+
+    Logging:
+    - CNC Logs
+    - Crash Logs
+    - Server Logs
+    - Sharing Logs
+    - Account Creation Logs
+    - Account Removal Logs
+
+    Menus:
+    - Help
+    - Admin
+    - Server
+    - Tools
+
+    Tools:
+    - ping
+    - whois
+    - resolver
+    - iplookup
+    - portscan
+    - asnlookup
+    - traceroute
+    - reversedns
+    - subnetcalc
+    - zonetransfer
 
 ##
 
