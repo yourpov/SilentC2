@@ -2,7 +2,7 @@
 
 Silent C2 is a simple, lightweight command-and-control (C2) server designed for use in small-scale projects or as a starting point for larger C2 projects. It's written in Golang and MySQL for its database. Silent C2 is designed to be easy to set up and use while providing a good foundation for more complex C2 systems.
 
-##
+
 
 ## Project Details
 
@@ -30,7 +30,7 @@ Silent C2 is a simple, lightweight command-and-control (C2) server designed for 
 | Built-In Discord Bot     | Includes a Discord bot with commands for managing users, reloading config, and normal utility commands. |
 | And Much More           |                                                                                                        |
 
-##
+
 
 | **Logging**     |
 |-----------------|
@@ -40,7 +40,7 @@ Silent C2 is a simple, lightweight command-and-control (C2) server designed for 
 
 
 
-##
+
 
 # Discord Bot
 
@@ -62,7 +62,7 @@ Silent C2 is a simple, lightweight command-and-control (C2) server designed for 
 | hostname  | Hostname/DNS lookup                                |
 | message   | Cross-platform messaging                          |
 
-## 
+
 
 # ⚠️ Coming Soon
 
@@ -86,18 +86,18 @@ Silent C2 is a simple, lightweight command-and-control (C2) server designed for 
 |           |  DDoS interface |
 
 
-##
 
-## ❗Setup Requirments
+
+## ❗ Setup Requirments
 - Something to connect with such as PuTTy or KiTTy
-##
+
 
 ## Installation / Setup
 - An AutoSetup file will be provided upon purcahse simply run: the following command
 
       ./Setup <MySQL Password>
 
-##
+
 
 | **🔌 Connection**                                             |
 |---------------------------------------------------------------|
@@ -124,24 +124,24 @@ Silent C2 is a simple, lightweight command-and-control (C2) server designed for 
 ## ⚙ Configuration
 - Configuration file is located in `src/config.json`, this holds all the information you need to setup the discord bot, the connection information, the motd, and much more (there are some commands to update the config directly such as motd, help settings, along with a reload command etc)  
   
-##
+
 
 ## 💰 Reseller Clients
 - Run `reseller` and follow prompt from there (resellers can only add normal users)
   
-##
+
 
 ## Commands
 - To view a list of avalible commands run : `help`
 
-##
+
 
 ## Contact / Credits
 - **Discord**: `itsjustnix`
 - **Instagram**: `@VanityVillian`
 - **Telegram**: `@ItsEcstasy`
 
-##
+
 
 ## 🤝💰 Donations
 Donations are much appricated, Happy coding.
