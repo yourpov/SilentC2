@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Given an image, this page will display a text version using braille as 1-bit pixels">
+	<title>Image to Braille</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="braille.js"></script>
+	<script src="dithering.js"></script>
+	<script src="main.js"></script>
+	<style>
+	body {
+		background-image: url("https://wallpapercave.com/w/wp4089286");
+		background-size: cover;
+		filter: blur(0px);
+		background: #333;
+		color: #eee;
+		font-family: sans-serif;
+		margin: 0;
+		width: 100vw;
+		height: 100vh;
+		display: flex;
+		flex-direction: row;
+	}
+	#text {
+		display: block;
+		white-space: pre;
+		outline: none;
+		min-width: 0;
+		padding: 0;
+		margin: 0;
+		resize: none;
+		flex: 1;
+		background: white;
+		color: black;
+	}
+	#text.dark {
+		background: black;
+		color: white;
+	}
+	#options {
+		display: flex;
+		flex-direction: column;
+		flex: 0 0 20%;
+		text-align: left;
+		border-left: 10px solid #333;
+		user-select: none;
+		overflow: hidden;
+	}
+	@media screen and (orientation: portrait) {
+		#options {
+			flex: 0 0 40%;
+		}
+	}
+	#options > div {
+		padding: 15px 0;
+	}
+	input[type="number"] {
+		width: 60px;
+	}
+	a {
+		color: #eee;
+		text-decoration: none;
+	}
+	</style>
+</head>
+<body>
+	<textarea id="text" readonly></textarea>
+	<div id="options">
+		<div><a href="https://t.me/SilentBotnet" target="_blank">Silent Telegram</a></div>
+		<div><input id="file" type="file" accept="image/*"></div>
+
+		<div title="Toggle dark theme"><input type="checkbox" id="darktheme"> Dark Theme</div>
+		<div title="Invert black with white"><input type="checkbox" id="inverted"> Invert</div>
+		<div title="Monochrome dithering"><input type="checkbox" id="dithering"> Dithering</div>
+		<div title="Disable placeholder spacing"><input type="checkbox" id="monospace"> Monospace</div>
+		<div title="Greyscale Mode">
+			<select id="greyscale_mode">
+				<option value="luminance">Luminance</option>
+				<option value="lightness">Lightness</option>
+				<option value="average">Average</option>
+				<option value="value">Value</option>
+			</select>
+		</div>
+		<div>
+			<input type="number" min="2" value="50" step="2" max="500" id="width">
+			Width (characters)
+		</div>
+		<div>
+			<button id="clipboard">Copy to clipboard</button>
+		</div>
+		<div>
+			Character count:<span id="charcount">0</span>
+		</div>
+	</div>
+</body>
+</html>
