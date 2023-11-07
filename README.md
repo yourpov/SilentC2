@@ -2,6 +2,18 @@
 
 Silent C2 is a simple, lightweight command-and-control (C2) server designed for use in small-scale projects or as a starting point for larger C2 projects. It's written in Golang and MySQL for its database. Silent C2 is designed to be easy to set up and use while providing a good foundation for more complex C2 systems.
 
+## 🌐 Silent's Webpages
+
+| Links                                            | Description                                                    |
+|--------------------------------------------------|----------------------------------------------------------------|
+| [Silent Previews](https://silent.lol/Previews)   | Public previews of Silent C2, a sneak peek of what's coming up |
+| [Reviews](https://silent.lol/Reviews)            | See what some of our members have to say about Silent C2       |
+| [Image To Dot](https://silent.lol/ImageToDot)    | Convert images into intricate Braille dot art                  |
+| [Password Generator](https://silent.lol/PassGen) | Easily create and save passwords                               |
+| [Bug Hunter](https://silent.lol/BugHunter)       | Mini-game focused on hunting and catching virtual bugs         |
+| [Toggle Game](https://silent.lol/ToggleGame)     | Misc Game, Was Bored.                                          |
+| [Notes](https://silent.lol/Notes)                | Create and manage notes all in one place                       |
+| [WPM Speed Test](https://silent.lol/WPMTest)     | Test and improve your typing speed with a WPM speed test       |
 
 
 ## Project Details
