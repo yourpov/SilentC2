@@ -1,31 +1,36 @@
-## 
-Silent C2 is a simple, lightweight command-and-control (C2) server designed for use in small-scale projects or as a starting point for larger C2 projects.  It's written in Golang &amp; MySQL for its database. Silent C2 is designed to be easy to set up and use, while providing a good foundation for more complex C2 systems.
-##
-| **Project**          | **Developers**      | **Public Distribution** | **GNU/GPL**        | **Last Modified**   | **Status** |
-|---------------------|-------------------|------------------------|------------------|-------------------|--------------------|
-| Silent C2       | Selfrep. x Ecstasy    | False                  | Version 3 (June 29, 2007) | Novmeber 7, 2023  | In Development                  |
+# Silent C2
 
+Silent C2 is a simple, lightweight command-and-control (C2) server designed for use in small-scale projects or as a starting point for larger C2 projects. It's written in Golang and MySQL for its database. Silent C2 is designed to be easy to set up and use while providing a good foundation for more complex C2 systems.
 
 ##
 
-# ✅ Silent Overview
-| Summery                 | Description                                                                                            |
+## Project Details
+
+| Project             | Developers              | Public Distribution    | GNU/GPL                    | Last Modified     | Status           |
+|--------------------|------------------------|-----------------------|------------------------|-------------------|------------------|
+| Silent C2           | Selfrep. x Ecstasy    | False                    | Version 3 (June 29, 2007) | November 7, 2023 | In Development   |
+
+## ✅ Silent Overview
+
+| Summary                  | Description                                                                                           |
 |-------------------------|--------------------------------------------------------------------------------------------------------|
-| Hybrid Protocol         | Supports both TELNET and SSH connectivity.                                                             |
-| Command Handler         | Dedicated handler/manager for configuring command permissions, names, and command aliases etc.       |
-| Account Permissions     | Reseller, Mod, Admin, Owner, and Normal.                                                              |
-| Captcha Protection      | Customizable Captcha functionality upon login to prevent automated brute force attacks.             |
-| API Compatibility       | Supports sending api attacks via CNC.                                                                 |
-| Attack Manager          | Allows users to easily enable/disable attacks directly from the CNC.                                  |
-| Theme Customization     | Users can set their own themes, and you can create preset themes in the configuration.               |
-| User Manager            | Adding, removing, editing, kicking, banning, unbanning, listing, exporting, and looking up users.    |
-| Reseller Commands       | Dedicated resellers commands to manage their customers, adding, deleting, listing, and kicking.     |
-| Central IP Logging      | Logs a custom ip/url with a tag to save for later, you can list, add and remove logs.                  |
-| Broadcast               | Allows broadcasting messages across the network via title/interface.                                   |
-| Account Plans           | Includes preset account plans for convenience when adding clients.                                    |
-| Customization           | Allows for complete customization, from title to prompt/pages to banner/commands and themes.        |
-| Built-In Discord Bot    | Includes a discord bot with commands for managing users, reloading config, and normal utility commands. |
-| And Much More          |                                                                                                        |
+| Hybrid Protocol          | Supports both TELNET and SSH connectivity.                                                             |
+| Command Handler          | Dedicated handler/manager for configuring command permissions, names, and command aliases, etc.     |
+| Account Permissions      | Reseller, Mod, Admin, Owner, and Normal.                                                              |
+| Captcha Protection       | Customizable Captcha functionality upon login to prevent automated brute force attacks.             |
+| API Compatibility        | Supports sending API attacks via CNC.                                                                 |
+| Attack Manager           | Allows users to easily enable/disable attacks directly from the CNC.                                  |
+| Theme Customization      | Users can set their own themes, and you can create preset themes in the configuration.               |
+| User Manager             | Adding, removing, editing, kicking, banning, unbanning, listing, exporting, and looking up users.    |
+| Reseller Commands        | Dedicated resellers' commands to manage their customers, adding, deleting, listing, and kicking.     |
+| Central IP Logging       | Logs a custom IP/URL with a tag to save for later; you can list, add, and remove logs.                |
+| Broadcast                | Allows broadcasting messages across the network via title/interface.                                   |
+| Account Plans            | Includes preset account plans for convenience when adding clients.                                    |
+| Customization            | Allows for complete customization, from title to prompt/pages to banner/commands and themes.        |
+| Built-In Discord Bot     | Includes a Discord bot with commands for managing users, reloading config, and normal utility commands. |
+| And Much More           |                                                                                                        |
+
+##
 
 | **Logging**     |
 |-----------------|
@@ -60,11 +65,12 @@ Silent C2 is a simple, lightweight command-and-control (C2) server designed for 
 ## 
 
 # ⚠️ Coming Soon
-| Features To Come               | Description                                                           |
-|--------------------------------|-----------------------------------------------------------------------|
-| Message of The Day            | Enable/disable, edit, and set preset MOTDs via DiscordBot and CNC.   |
-| Priority-Based Ticket System   | Allows Ticket Support within CNC and DiscordBot with response status. |
-| Global Information             | Today's Attacks, Average Weekly Attacks, Most Active Attacker, Most Recent Attack, Most Attacked Location. |
+
+| Features To Come              | Description                                                           |
+|------------------------------|-----------------------------------------------------------------------|
+| Message of The Day           | Enable/disable, edit, and set preset MOTDs via DiscordBot and CNC.   |
+| Priority-Based Ticket System  | Allows Ticket Support within CNC and DiscordBot with response status. |
+| Global Information            | Today's Attacks, Average Weekly Attacks, Most Active Attacker, Most Recent Attack, Most Attacked Location. |
 
 
 
