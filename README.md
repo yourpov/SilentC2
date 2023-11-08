@@ -21,6 +21,7 @@ Silent C2 is a simple, lightweight golang based command-and-control (CNC).
 | [Github Lookup](https://silent.lol/GithubLookup)        | Misc, Fetch info about github users by their username                |
 | [Clock](https://silent.lol/Clock)                       | Misc, Displays your local time time                                  |
 | [Hangman](https://silent.lol/Hangman)                   | Game, Guess words in Hangman                                         |
+| [Breakout](https://silent.lol/Breakout)                 | Game, A classic brick-breaking action to test your reflexes          |
 | [Drawing](https://silent.lol/Draw)                      | Game, Feel like drawing? You can draw on this digital canvas         |
 | [Color Splash](https://silent.lol/ColorSplash)          | Game, Getting high? Moving your mouse on this gets trippy enjoy lol  |
 
