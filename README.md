@@ -2,7 +2,10 @@
 
 Silent C2 is a simple, lightweight golang based command-and-control (CNC).
 
-[Purchase Silent](https://silent.lol/Purchase)
+
+## 💳 Purchase
+
+You can purchase silent [Here](https://silent.lol/Purchase)
 
 ## 🌐 Silent's Webpages
 
