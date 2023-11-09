@@ -1,22 +1,14 @@
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coming Soon</title>
-  </head>
-  <body>
+</head>
+<body>
     <div class="container">
-      <h1 class="title">Silent C2 / Coming Soon</h1>
-      <button id="early-access-btn" class="btn">Early Access</button>
+        <h1 class="title">Silent C2 / Coming Soon</h1>
+        <a href="https://username.github.io/repo-name/SOON.md" class="btn">Early Access</a>
     </div>
-
-    <script>
-      const earlyAccessButton = document.getElementById("early-access-btn");
-
-      earlyAccessButton.addEventListener("click", function() {
-        window.location.href = "SOON.md";
-      });
-    </script>
-  </body>
+</body>
 </html>
