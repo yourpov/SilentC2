@@ -12,6 +12,7 @@ Silent C2 is a simple, lightweight golang based command-and-control (CNC).
 | [Toggle Game](https://silent.lol/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
 | [Image To Dot](https://silent.lol/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
 | [Password Generator](https://silent.lol/PassGen)        | Tool, Easily create and save passwords                               |
+| [New Years Countdown](https://silent.lol/NewYears)      | Misc, New Years Countdown for until 2024                             |
 | [Notes](https://silent.lol/Notes)                       | Misc, Create and manage notes all in one place                       |
 | [WPM Speed Test](https://silent.lol/WPMTest)            | Misc, Test and improve your typing speed with a WPM speed test       |
 | [Key Codes](https://silent.lol/BugHunter)               | Misc, Enter keys to view their KeyCode                               |
