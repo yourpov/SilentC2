@@ -1,7 +1,7 @@
 # Silent C2
 
 Silent C2 is a simple, lightweight golang based command-and-control (CNC).
-
+this is a new change from VSCode
 
 ## 💳 Purchase
 
