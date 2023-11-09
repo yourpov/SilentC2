@@ -20,7 +20,7 @@ You can purchase silent [Here](https://silent.lol/Purchase)
 | [New Years Countdown](https://silent.lol/NewYears)      | Misc, New Years Countdown for until 2024                             |
 | [Notes](https://silent.lol/Notes)                       | Misc, Create and manage notes all in one place                       |
 | [WPM Speed Test](https://silent.lol/WPMTest)            | Misc, Test and improve your typing speed with a WPM speed test       |
-| [Key Codes](https://silent.lol/BugHunter)               | Misc, Enter keys to view their KeyCode                               |
+| [Key Codes](https://silent.lol/KeyCodes)               | Misc, Enter keys to view their KeyCode                               |
 | [Random Choice Picker](https://silent.lol/RandomChoice) | Misc, Randomly pick a choice from a list                             |
 | [Bug Hunter](https://silent.lol/BugHunter)              | Game, Hunt and Catch virtual bugs (impossible)                       |
 | [Movie Lookup](https://silent.lol/MovieLookup)          | Misc, Search and locate almost any movie                             |
