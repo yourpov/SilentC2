@@ -8,27 +8,27 @@ You can purchase silent [Here](https://silent.lol/Purchase)
 
 ## 🌐 Silent's Webpages
 
-| Links                                                   | Description                                                          |
-|---------------------------------------------------------|----------------------------------------------------------------------|
-| [Silent Previews](https://silent.lol/Previews)          | Info, Public previews of Silent C2, a sneak peek of what's coming up |
-| [Reviews](https://silent.lol/Reviews)                   | Info, See what some of our members have to say about Silent C2       |
-| [Send Feedback](https://silent.lol/Feedback)            | Info, Public reviews/feedback for silent c2, share how you feel      |
-| [Toggle Game](https://silent.lol/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
-| [Image To Dot](https://silent.lol/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
-| [Password Generator](https://silent.lol/PassGen)        | Tool, Easily create and save passwords                               |
-| [New Years Countdown](https://silent.lol/NewYears)      | Misc, New Years Countdown for until 2024                             |
-| [Notes](https://silent.lol/Notes)                       | Misc, Create and manage notes all in one place                       |
-| [WPM Speed Test](https://silent.lol/WPMTest)            | Misc, Test and improve your typing speed with a WPM speed test       |
-| [Key Codes](https://silent.lol/KeyCodes)               | Misc, Enter keys to view their KeyCode                               |
-| [Random Choice Picker](https://silent.lol/RandomChoice) | Misc, Randomly pick a choice from a list                             |
-| [Bug Hunter](https://silent.lol/BugHunter)              | Game, Hunt and Catch virtual bugs (impossible)                       |
-| [Movie Lookup](https://silent.lol/MovieLookup)          | Misc, Search and locate almost any movie                             |
-| [Github Lookup](https://silent.lol/GithubLookup)        | Misc, Fetch info about github users by their username                |
-| [Clock](https://silent.lol/Clock)                       | Misc, Displays your local time time                                  |
-| [Hangman](https://silent.lol/Hangman)                   | Game, Guess words in Hangman                                         |
-| [Breakout](https://silent.lol/Breakout)                 | Game, A classic brick-breaking action to test your reflexes          |
-| [Drawing](https://silent.lol/Draw)                      | Game, Feel like drawing? You can draw on this digital canvas         |
-| [Color Splash](https://silent.lol/ColorSplash)          | Game, Getting high? Moving your mouse on this gets trippy enjoy lol  |
+| Links                                                         | Description                                                          |
+|---------------------------------------------------------------|----------------------------------------------------------------------|
+| [Silent Previews](https://silent.lol/Sites/Previews)          | Info, Public previews of Silent C2, a sneak peek of what's coming up |
+| [Reviews](https://silent.lol/Sites/Reviews)                   | Info, See what some of our members have to say about Silent C2       |
+| [Send Feedback](https://silent.lol/Sites/Feedback)            | Info, Public reviews/feedback for silent c2, share how you feel      |
+| [Toggle Game](https://silent.lol/Sites/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
+| [Image To Dot](https://silent.lol/Sites/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
+| [Password Generator](https://silent.lol/Sites/PassGen)        | Tool, Easily create and save passwords                               |
+| [New Years Countdown](https://silent.lol/Sites/NewYears)      | Misc, New Years Countdown for until 2024                             |
+| [Notes](https://silent.lol/Sites/Notes)                       | Misc, Create and manage notes all in one place                       |
+| [WPM Speed Test](https://silent.lol/Sites/WPMTest)            | Misc, Test and improve your typing speed with a WPM speed test       |
+| [Key Codes](https://silent.lol/Sites/KeyCodes)                | Misc, Enter keys to view their KeyCode                               |
+| [Random Choice Picker](https://silent.lol/Sites/RandomChoice) | Misc, Randomly pick a choice from a list                             |
+| [Bug Hunter](https://silent.lol/Sites/BugHunter)              | Game, Hunt and Catch virtual bugs (impossible)                       |
+| [Movie Lookup](https://silent.lol/Sites/MovieLookup)          | Misc, Search and locate almost any movie                             |
+| [Github Lookup](https://silent.lol/Sites/GithubLookup)        | Misc, Fetch info about github users by their username                |
+| [Clock](https://silent.lol/Sites/Clock)                       | Misc, Displays your local time time                                  |
+| [Hangman](https://silent.lol/Sites/Hangman)                   | Game, Guess words in Hangman                                         |
+| [Breakout](https://silent.lol/Sites/Breakout)                 | Game, A classic brick-breaking action to test your reflexes          |
+| [Drawing](https://silent.lol/Sites/Draw)                      | Game, Feel like drawing? You can draw on this digital canvas         |
+| [Color Splash](https://silent.lol/Sites/ColorSplash)          | Game, Getting high? Moving your mouse on this gets trippy enjoy lol  |
 
 
 ## Project Details
