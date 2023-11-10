@@ -12,7 +12,7 @@ You can purchase silent [Here](https://silent.lol/Purchase)
 |---------------------------------------------------------------|----------------------------------------------------------------------|
 | [Silent Previews](https://silent.lol/Sites/Previews)          | Info, Public previews of Silent C2, a sneak peek of what's coming up |
 | [Reviews](https://silent.lol/Sites/Reviews)                   | Info, See what some of our members have to say about Silent C2       |
-| [Send Feedback](https://silent.lol/Sites/Feedback)            | Info, Public reviews/feedback for silent c2, share how you feel      |
+| [Send Feedback](https://silent.lol/Feedback)                  | Info, Public reviews/feedback for silent c2, share how you feel      |
 | [Toggle Game](https://silent.lol/Sites/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
 | [Image To Dot](https://silent.lol/Sites/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
 | [Password Generator](https://silent.lol/Sites/PassGen)        | Tool, Easily create and save passwords                               |
