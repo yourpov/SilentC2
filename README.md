@@ -28,7 +28,7 @@ You can purchase silent [Here](https://silent.lol/Purchase)
 | [Hangman](https://silent.lol/Sites/Hangman)                   | Game, Guess words in Hangman                                         |
 | [Breakout](https://silent.lol/Sites/Breakout)                 | Game, A classic brick-breaking action to test your reflexes          |
 | [Drawing](https://silent.lol/Sites/Draw)                      | Game, Feel like drawing? You can draw on this digital canvas         |
-| [Color Splash](https://silent.lol/Sites/ColorSplash)          | Game, Getting high? Moving your mouse on this gets trippy enjoy lol  |
+| [Color Splash](https://silent.lol/Sites/ColorSplash)          | Game, Moving your mouse on this gets a splash of colors enjoy lol    |
 
 
 ## Project Details
