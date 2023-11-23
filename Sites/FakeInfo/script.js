@@ -1,4 +1,3 @@
-// JavaScript code for generating passwords and names
 const passwordResult = document.getElementById("passwordResult");
 const lengthElement = document.getElementById("length");
 const uppercaseElement = document.getElementById("uppercase");
