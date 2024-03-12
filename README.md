@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Silent C2</title>
-</head>
-<body>
-  <script>
-    if (window.location.pathname === '/discord') {
-      window.location.replace('https://discord.gg/bR38j8TYVW');
-    }
-    if (window.location.pathname === '/telegram') {
-      window.location.replace('https://t.me/SilentBotnet');
-    }
-  </script>
-
 Silent C2
 
 Silent C2 is a simple, lightweight golang based command-and-control (CNC).
