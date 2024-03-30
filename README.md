@@ -6,6 +6,8 @@ Silent C2 is a simple, lightweight golang based command-and-control (CNC).
 
 You can purchase silent [Here](https://silent.lol/Purchase)
 
+Check Website Status [Here](https://silent-inc.betteruptime.com)
+
 ## 🌐 Silent's Webpages
 
 | Links                                                         | Description                                                          |
@@ -15,7 +17,7 @@ You can purchase silent [Here](https://silent.lol/Purchase)
 | [Send Feedback](https://silent.lol/Feedback)                  | Info, Public reviews/feedback for silent c2, share how you feel      |
 | [Toggle Game](https://silent.lol/Sites/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
 | [Image To Dot](https://silent.lol/Sites/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
-| [Password Generator](https://silent.lol/Sites/PassGen)        | Tool, Easily create and save passwords                               |
+| [Password Generator](https://silent.lol/Sites/FakeInfo)       | Tool, Easily create and save passwords                               |
 | [New Years Countdown](https://silent.lol/Sites/NewYears)      | Misc, New Years Countdown for until 2024                             |
 | [Notes](https://silent.lol/Sites/Notes)                       | Misc, Create and manage notes all in one place                       |
 | [WPM Speed Test](https://silent.lol/Sites/WPMTest)            | Misc, Test and improve your typing speed with a WPM speed test       |
