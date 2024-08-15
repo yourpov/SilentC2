@@ -28,7 +28,7 @@ sendButton.addEventListener("click", (e) => {
     content: `**${selectedNickname}** sent a review:\nThey felt **${selectedRating.toLowerCase()}** with the service\nTheir message:\n\`\`\`${userMessage}\`\`\``,
   };
 
-  fetch("https://discord.com/api/webhooks/1168003735973281854/Uty347X3xe9o_0cGSAoNpS9lYoiA84GOJ3CB1gKiLudXfHogfOBzm1na8uil32gzQa-R", {
+  fetch("https://discord.com/api/webhooks/1273748039387054153/m6qRHON-fcN5BzAkcnEk4eBOLF-7IxZoLxMwsbi7UccxC8Izx0JNNIa8qk1LgF9L64Ys", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
