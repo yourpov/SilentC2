@@ -4,7 +4,7 @@ Silent C2 is a simple, lightweight golang based command-and-control (CNC).
 
 ## 💳 Purchase
 
-You can purchase silent [Here](https://silent.lol/Purchase)
+You can purchase silent [Here](https://itsecstasy.github.io/SilentC2/Purchase)
 
 Check Website Status [Here](https://silent-inc.betteruptime.com)
 
@@ -12,25 +12,25 @@ Check Website Status [Here](https://silent-inc.betteruptime.com)
 
 | Links                                                         | Description                                                          |
 |---------------------------------------------------------------|----------------------------------------------------------------------|
-| [Silent Previews](https://silent.lol/Sites/Previews)          | Info, Public previews of Silent C2, a sneak peek of what's coming up |
-| [Reviews](https://silent.lol/Sites/Reviews)                   | Info, See what some of our members have to say about Silent C2       |
+| [Silent Previews](https://itsecstasy.github.io/SilentC2/Sites/Previews)          | Info, Public previews of Silent C2, a sneak peek of what's coming up |
+| [Reviews](https://itsecstasy.github.io/SilentC2/Sites/Reviews)                   | Info, See what some of our members have to say about Silent C2       |
 | [Send Feedback](https://silent.lol/Feedback)                  | Info, Public reviews/feedback for silent c2, share how you feel      |
-| [Toggle Game](https://silent.lol/Sites/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
-| [Image To Dot](https://silent.lol/Sites/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
-| [Password Generator](https://silent.lol/Sites/FakeInfo)       | Tool, Easily create and save passwords                               |
-| [New Years Countdown](https://silent.lol/Sites/NewYears)      | Misc, New Years Countdown for until 2024                             |
-| [Notes](https://silent.lol/Sites/Notes)                       | Misc, Create and manage notes all in one place                       |
-| [WPM Speed Test](https://silent.lol/Sites/WPMTest)            | Misc, Test and improve your typing speed with a WPM speed test       |
-| [Key Codes](https://silent.lol/Sites/KeyCodes)                | Misc, Enter keys to view their KeyCode                               |
-| [Random Choice Picker](https://silent.lol/Sites/RandomChoice) | Misc, Randomly pick a choice from a list                             |
-| [Bug Hunter](https://silent.lol/Sites/BugHunter)              | Game, Hunt and Catch virtual bugs (impossible)                       |
-| [Movie Lookup](https://silent.lol/Sites/MovieLookup)          | Misc, Search and locate almost any movie                             |
-| [Github Lookup](https://silent.lol/Sites/GithubLookup)        | Misc, Fetch info about github users by their username                |
-| [Clock](https://silent.lol/Sites/Clock)                       | Misc, Displays your local time time                                  |
-| [Hangman](https://silent.lol/Sites/Hangman)                   | Game, Guess words in Hangman                                         |
-| [Breakout](https://silent.lol/Sites/Breakout)                 | Game, A classic brick-breaking action to test your reflexes          |
-| [Drawing](https://silent.lol/Sites/Draw)                      | Game, Feel like drawing? You can draw on this digital canvas         |
-| [Color Splash](https://silent.lol/Sites/ColorSplash)          | Game, Moving your mouse on this gets a splash of colors enjoy lol    |
+| [Toggle Game](https://itsecstasy.github.io/SilentC2/Sites/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
+| [Image To Dot](https://itsecstasy.github.io/SilentC2/Sites/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
+| [Password Generator](https://itsecstasy.github.io/SilentC2/Sites/FakeInfo)       | Tool, Easily create and save passwords                               |
+| [New Years Countdown](https://itsecstasy.github.io/SilentC2/Sites/NewYears)      | Misc, New Years Countdown for until 2024                             |
+| [Notes](https://itsecstasy.github.io/SilentC2/Sites/Notes)                       | Misc, Create and manage notes all in one place                       |
+| [WPM Speed Test](https://itsecstasy.github.io/SilentC2/Sites/WPMTest)            | Misc, Test and improve your typing speed with a WPM speed test       |
+| [Key Codes](https://itsecstasy.github.io/SilentC2/Sites/KeyCodes)                | Misc, Enter keys to view their KeyCode                               |
+| [Random Choice Picker](https://itsecstasy.github.io/SilentC2/Sites/RandomChoice) | Misc, Randomly pick a choice from a list                             |
+| [Bug Hunter](https://itsecstasy.github.io/SilentC2/Sites/BugHunter)              | Game, Hunt and Catch virtual bugs (impossible)                       |
+| [Movie Lookup](https://itsecstasy.github.io/SilentC2/Sites/MovieLookup)          | Misc, Search and locate almost any movie                             |
+| [Github Lookup](https://itsecstasy.github.io/SilentC2/Sites/GithubLookup)        | Misc, Fetch info about github users by their username                |
+| [Clock](https://itsecstasy.github.io/SilentC2/Sites/Clock)                       | Misc, Displays your local time time                                  |
+| [Hangman](https://itsecstasy.github.io/SilentC2/Sites/Hangman)                   | Game, Guess words in Hangman                                         |
+| [Breakout](https://itsecstasy.github.io/SilentC2/Sites/Breakout)                 | Game, A classic brick-breaking action to test your reflexes          |
+| [Drawing](https://itsecstasy.github.io/SilentC2/Sites/Draw)                      | Game, Feel like drawing? You can draw on this digital canvas         |
+| [Color Splash](https://itsecstasy.github.io/SilentC2/Sites/ColorSplash)          | Game, Moving your mouse on this gets a splash of colors enjoy lol    |
 
 
 ## Project Details
