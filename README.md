@@ -14,7 +14,7 @@ Check Website Status [Here](https://silent-inc.betteruptime.com)
 |---------------------------------------------------------------|----------------------------------------------------------------------|
 | [Silent Previews](https://yourpov.github.io/SilentC2/Sites/Previews)          | Info, Public previews of Silent C2, a sneak peek of what's coming up |
 | [Reviews](https://yourpov.github.io/SilentC2/Sites/Reviews)                   | Info, See what some of our members have to say about Silent C2       |
-| [Send Feedback](https://silent.lol/Feedback)                  | Info, Public reviews/feedback for silent c2, share how you feel      |
+| [Send Feedback](https://yourpov.github.io/SilentC2//Feedback)                  | Info, Public reviews/feedback for silent c2, share how you feel      |
 | [Toggle Game](https://yourpov.github.io/SilentC2/Sites/ToggleGame)            | Lesson, Enlightenment on paying a freelancer.                        |
 | [Image To Dot](https://yourpov.github.io/SilentC2/Sites/ImageToDot)           | Tool, Convert images into intricate Braille dot art                  |
 | [Password Generator](https://yourpov.github.io/SilentC2/Sites/FakeInfo)       | Tool, Easily create and save passwords                               |
